@@ -1,0 +1,5 @@
+- 👋 Hello, I'm @ashu977.
+- 👀 My interest lies in data science.
+- 🌱 I am currently learning Python.
+- 📫 Reach me via email at palashu662@gmail.com.
+- 😄 Pronouns: He/Him.
